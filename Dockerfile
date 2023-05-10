@@ -1,4 +1,4 @@
-FROM mongo:4.4.21
+FROM mongo:5.0.17
 
 ENV KEYFILE /opt/mongo/keyfile
 
